@@ -1,0 +1,4 @@
+node_modules/*
+site/dist/*
+vi_VN.js
+en_US.js

@@ -62,3 +62,4 @@ typings/
 
 # auto generated files
 yarn.lock
+.DS_Store
